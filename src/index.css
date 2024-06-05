@@ -2,9 +2,9 @@
   margin: 0px;
   padding: 0px;
   
-  /* background-color: black; */
   color: white;
-  font-family: URW Chancery L, cursive;
+  /* font-family: URW Chancery L, cursive; */
+  font-family: "Poetsen One", sans-serif;
 }
 
 .blur{

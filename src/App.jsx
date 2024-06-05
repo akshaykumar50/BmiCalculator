@@ -75,8 +75,8 @@ function App() {
 
         </div>
         <div className='mt-4 mx-4 d-flex justify-content-between align-items-center'>
-          <button className='btn btn-success ' onClick={calculate}>Calculate</button>
-          <button className='btn btn-danger ' onClick={reset}>Reset</button>
+          <button className='btn btn-success m-2 ' onClick={calculate}>Calculate</button>
+          <button className='btn btn-danger m-2 ' onClick={reset}>Reset</button>
         </div>
 
       </div>
